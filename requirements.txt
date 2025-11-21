@@ -1,0 +1,25 @@
+#REQUIREMENTS.TXT
+
+-- Python Dependencies ---
+
+This script uses only the standard Python library.
+
+No pip install is required.
+
+Requires: Python 3.6+
+
+-- System Dependencies (Mandatory) ---
+
+The following tools must be installed and added to your system PATH.
+
+You can install them using 'go install' or 'apt install' (on Kali Linux).
+
+1. Subfinder: https://github.com/projectdiscovery/subfinder
+
+2. DNSx: https://github.com/projectdiscovery/dnsx
+
+3. Naabu: https://github.com/projectdiscovery/naabu
+
+4. HTTPx: https://github.com/projectdiscovery/httpx
+
+5. Katana: https://github.com/projectdiscovery/katana
